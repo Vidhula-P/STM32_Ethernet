@@ -47,7 +47,7 @@
 
 /* USER CODE BEGIN PV */
 
- unsigned char mac_in[6] = { 4, 145, 0x62, 98, 104, 160 };
+ unsigned char mac_in[6] = { 4, 145, 98, 186, 104, 160 };
  unsigned char gw_in[4] = {192, 168, 1, 1 };
  unsigned char sn_in[4] = {0xFF, 0xFF, 0xFF, 0x00};
  unsigned char ip_in[4] = {192, 168, 1, 240 };
